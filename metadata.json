@@ -1,0 +1,5 @@
+{
+  "name": "Blockout 3D",
+  "description": "A retro-style 3D Tetris game inspired by the classic Blockout, built with React and Three.js.",
+  "requestFramePermissions": []
+}
