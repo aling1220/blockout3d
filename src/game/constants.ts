@@ -38,7 +38,7 @@ export const TETROMINOES: Record<string, Tetromino> = {
     shape: [[2, 0, 0], [0, 1, 0], [1, 1, 0], [2, 1, 0]],
     color: '#ff8800' // Orange
   },
-  // 3D specific shapes (polycubes)
+  /* 3D specific shapes (polycubes) - Commented out as requested
   P1: {
     shape: [[0, 0, 0], [1, 0, 0], [0, 1, 0], [0, 0, 1]],
     color: '#ffffff' // White
@@ -47,4 +47,5 @@ export const TETROMINOES: Record<string, Tetromino> = {
     shape: [[0, 0, 0], [1, 0, 0], [0, 1, 0], [1, 1, 1]],
     color: '#ff0088' // Pink
   }
+  */
 };
